@@ -10,9 +10,8 @@ Clone the project to a location on your machine.
 
 `git clone https://github.com/jcarley/abodochallenge.git`
 
-Change directories into the folder you cloned the project to.
-
-`cd ~/Projects/ruby/abodochallenge`
+Change directories into the folder you cloned the project to.  On my machine this was `cd ~/Projects/ruby/abodochallenge`.
+You should change this to what ever the location is on your machine.
 
 Bootstrap the project by executing the `boostrap.sh` file in a terminal.
 
