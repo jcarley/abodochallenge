@@ -1,24 +1,19 @@
-# README
+# Abodo Challenge
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## Getting started
 
-* Ruby version
+Clone the project to a location on your machine.
 
-* System dependencies
+`git clone https://github.com/jcarley/abodochallenge.git`
 
-* Configuration
+Change directories into the folder you cloned the project to.
 
-* Database creation
+`cd ~/Projects/ruby/abodochallenge`
 
-* Database initialization
+Bootstrap the project by executing the `run.sh` file in a terminal.
 
-* How to run the test suite
+`./run.sh`
 
-* Services (job queues, cache servers, search engines, etc.)
+Finally, browse to `localhost:3000/properties`
 
-* Deployment instructions
-
-* ...
