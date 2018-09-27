@@ -3,6 +3,9 @@
 
 ## Getting started
 
+The project currently requires ruby >=2.5.1.  It should work on other rubies,
+but this hasnt' been tested.  The bootstrap script will check for the ruby version.
+
 Clone the project to a location on your machine.
 
 `git clone https://github.com/jcarley/abodochallenge.git`
