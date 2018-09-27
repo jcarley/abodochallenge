@@ -22,4 +22,5 @@ Finally, browse to `localhost:3000/properties`
 
 Stats are captured when any controller action is accessed.  It uses
 ActiveSupport to subscribe to an event, and then captures the metadata
-from the event.  To view the stats browse to `localhost:3000/stats`
+from the event.  To view the stats browse to `localhost:3000/stats`.  You can
+add to the stats by refreshing any page, for example, `localhost:3000/properties`.
